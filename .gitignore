@@ -3,21 +3,21 @@ bin
 gen
 
 #Eclipse
-.project
-.classpath
-.settings
+#.project
+#.classpath
+#.settings
 
 #IntelliJ IDEA
-.idea
-*.iml
-classes
+#.idea
+#*.iml
+#classes
 
 #Maven
-target
-release.properties
-pom.xml.*
+#target
+#release.properties
+#pom.xml.*
 
 #Command line
-local.properties
-build.xml
-proguard-project.txt
+#local.properties
+#build.xml
+#proguard-project.txt
